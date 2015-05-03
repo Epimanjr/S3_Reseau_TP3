@@ -1,0 +1,4 @@
+#!/bin/bash
+
+java -cp "build/classes" Flux/Graphique $1 $2
+
